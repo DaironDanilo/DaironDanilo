@@ -71,8 +71,7 @@ I'm an Android developer with experience in both **Jetpack Compose** and **XML-b
 
 - 🗣️ I speak Spanish, Italian, English, Portuguese, and I'm learning German 🇩🇪  
 - 🧠 I love tech, music, and origami  
-- 🎸 I can play fingerstyle guitar 🎶  
-- ✈️ Dreaming of working remotely in Europe someday
+- 🎸 I can play fingerstyle guitar 🎶 
 
 ---
 
