@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 I'm an Android developer with experience in both **Jetpack Compose** and **XML-based UI**, currently working on building intuitive and scalable apps. I’ve contributed to MVP-architected enterprise apps and I'm exploring **Compose Multiplatform** to bring Kotlin everywhere – from Android to Desktop and beyond.
 
-- 🔨 1.5+ years of experience in Android development  
-- 🔥 Kotlin | Jetpack Compose | Firebase | Compose Multiplatform  
+- 🔨 2+ years of experience in Android development, backend development (Django) and cloud computing (GCP)
+- 🔥 Kotlin | Jetpack Compose | Firebase | Compose Multiplatform | Django | Google Cloud Platform
 - 🧠 Learning data structures, algorithms, and machine learning for mobile  
 - 🐙 Always exploring creative app ideas and open source contributions
 
